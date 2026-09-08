@@ -34,9 +34,9 @@ You can use these subtitles in two simple ways:
 ---
 
 ## 📌 Technical Details
-- **Subtitle Author:** Marx48 *(or your preferred username)*
+- **Subtitle Author**: Marx48
 - **Format:** `.ass`
-- **Video Source:** WEB-RAW / Official Release
+- **Video Source:** YTB-RAW / Official Release
 
 ---
 
