@@ -12,7 +12,12 @@ Since the episodes are short (around 2 minutes) and lacked English subtitles, I 
 
 Subtitles are provided in the `.ass` format (Advanced Substation Alpha) with custom styling, compatible with most media players.
 
-- `Ghost Meets Gal Ep01 eng sub.ass` — Episode 01
+`Ghost Meets Gal Ep01 eng sub.ass` — Episode 01
+`Ghost Meets Gal Ep02 eng sub.ass` — Episode 02
+`Ghost Meets Gal Ep03 eng sub.ass` — Episode 03
+`Ghost Meets Gal Ep04 eng sub.ass` — Episode 04
+`Ghost Meets Gal Ep05 eng sub.ass` — Episode 05
+
 
 *(Subtitles will be updated as new episodes are released!)*
 
