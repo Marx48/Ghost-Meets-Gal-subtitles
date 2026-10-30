@@ -12,7 +12,8 @@ Since the episodes are short (around 2 minutes) and lacked English subtitles, I 
 
 Subtitles are provided in the .ass format (Advanced Substation Alpha) with custom styling, compatible with most media players.
 * **[Google Drive](https://drive.google.com/drive/folders/1biplIE7Jv_U-yg0adO2Xg57bYYAX0SMN?usp=drive_link)**
-
+* **[Nekobt](https://nekobt.to/search?media_id=s11407&group_id=13154952604465)**
+* **[AnimeTosho](https://animetosho.net/series/20339?gid=19174&order=&disp=)**
 *(Subtitles will be updated as new episodes are released!)*
 
 ---
