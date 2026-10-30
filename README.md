@@ -11,22 +11,7 @@ Since the episodes are short (around 2 minutes) and lacked English subtitles, I 
 ## 📂 Available Files
 
 Subtitles are provided in the .ass format (Advanced Substation Alpha) with custom styling, compatible with most media players.
-
-Ghost Meets Gal Ep01 eng sub.ass — Episode 01
-
-Ghost Meets Gal Ep02 eng sub.as` — Episode 02
-
-Ghost Meets Gal Ep03 eng sub.ass — Episode 03
-
-Ghost Meets Gal Ep04 eng sub.ass — Episode 04
-
-Ghost Meets Gal Ep05 eng sub.ass — Episode 05
-
-Ghost Meets Gal Ep05 eng sub.ass — Episode 06
-
-Ghost Meets Gal Ep05 eng sub.ass — Episode 07
-
-Ghost Meets Gal Ep05 eng sub.ass — Episode 08
+* **[Google Drive](https://drive.google.com/drive/folders/1biplIE7Jv_U-yg0adO2Xg57bYYAX0SMN?usp=drive_link)**
 
 *(Subtitles will be updated as new episodes are released!)*
 
